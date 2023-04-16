@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Documents/Unreal Projects/ProyectoFinal 5.1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/ProyectoFinal 5.1/Content/inicio.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/ProyectoFinal 5.1/Content/BR_Lvl_1.umap",
+				"C:/Users/PC/Documents/Unreal Projects/ProyectoFinal 5.1/Content/GuardarPartida.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/BR_Lvl_1.umap",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Terreno/LandscapeMaterial/Suelo.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/STF/Pack03-LandscapePro/Environment/Foliage/GreenTrees/tree04/green-tree04_FoliageType.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio4/Piezas/lambert16.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio4/Piezas/lambert6.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio4/Piezas/lambert7.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio4/Piezas/lambert8.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio4/Piezas/lambert9.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Fort_Wall_Destroyed.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio5/Piezas/m_building_roof.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Modelos/Edificios/Edificio2_1/Materiales/Objeto_Techo/Objeto_Techo_Inst.uasset",
+				"A:/Unreal/UE_5.1/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Mannequin/Animations/Shooter/Soldier_Anim_BP.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset",
+				"A:/FCFM/Optimizacion/proyecto de karen/ProyectoFinal 5.1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
